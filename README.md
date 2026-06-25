@@ -7,10 +7,10 @@ Currently on exchange semester at **Aalen University, Germany** 🇩🇪
 
 ## 🛠 Tech Stack
 **Languages:** Python • Java • C++ • C  
-**ML:** Scikit-learn • Pandas • NumPy • Matplotlib
-**DL:** PyTorch • Tensorflow
-**Web:** React • Node.js • MongoDB • MySQL 
-**Data Structures and Algorithms**
+**ML:** Scikit-learn • Pandas • NumPy • Matplotlib  
+**DL:** PyTorch • Tensorflow  
+**Web:** React • Node.js • MongoDB • MySQL  
+**Data Structures and Algorithms**  
 
 
 
