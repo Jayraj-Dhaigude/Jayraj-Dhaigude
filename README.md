@@ -7,17 +7,12 @@ Currently on exchange semester at **Aalen University, Germany** 🇩🇪
 
 ## 🛠 Tech Stack
 **Languages:** Python • Java • C++ • C  
-**ML:** Scikit-learn • Pandas • NumPy • Matplotlib 
-**Web:** React • Node.js • MongoDB • MySQL  
+**ML:** Scikit-learn • Pandas • NumPy • Matplotlib
+**DL:** PyTorch • Tensorflow
+**Web:** React • Node.js • MongoDB • MySQL 
+**Data Structures and Algorithms**
 
 
-
----
-
-## 📜 Certifications
-- NVIDIA — AI for Anomaly Detection
-- NVIDIA — Generative AI with Diffusion Models
-- Google — Foundations of Project Management
 
 ---
 
