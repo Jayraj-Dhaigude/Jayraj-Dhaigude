@@ -1,7 +1,6 @@
 # Hey, I'm Jayraj Dhaigude 👋
 
-AI & Data Science student at **Vishwakarma Institute of Technology, Pune** (CGPA: 8.46)  
-Currently on exchange semester at **Aalen University, Germany** 🇩🇪
+AI & Data Science student at **Vishwakarma Institute of Technology, Pune** (CGPA: 8.46)
 
 ---
 
